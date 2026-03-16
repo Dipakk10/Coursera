@@ -27,6 +27,7 @@ Git & GitHub
 
  * Make Branch
    1. git checkout -b "branchname"
-      - Switch Branch
-         1. git checkout "branchname"
+   
+   * Switch Branch
+      1. git checkout "branchname"
    
