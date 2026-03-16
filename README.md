@@ -1,5 +1,5 @@
 # TuteDude
-TuteDude Test
+TuteDude Text
 
 Git & GitHub
  * For first Time need to configure github in out system
@@ -19,3 +19,7 @@ Git & GitHub
     5. git add .
     6. git commit -m "message"
     7. git push
+
+   Make Branch
+      git checkout -b "branchName"
+      
