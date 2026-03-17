@@ -38,7 +38,7 @@ Web Devlopment
    style.css
    script.js
 
-   URL (Uniform Resource Locater)
+   URL (Uniform Resource Locater) :
       https://education.wevdevlopment.edu/Fullstack
 
       https : Protcol
