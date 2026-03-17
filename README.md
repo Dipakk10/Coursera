@@ -31,3 +31,35 @@ Git & GitHub
    * Switch Branch
       1. git checkout "branchname"
    
+
+Web Devlopment
+
+   index.html
+   style.css
+   script.js
+
+   URL (Uniform Resource Locater)
+      https://education.wevdevlopment.edu/Fullstack
+
+      https : Protcol
+      webdev : Domain/Server Name
+      education : sub-Domain
+      .edu : TLD (Top Level Domain)
+      Fullstack : Page
+   
+   Protcol : A set of rules/instruction
+      >> http : Hyper text transfer protcol
+      >> https: Hyper text transfer protcol secure
+      >> ftp : File transfer protcol
+      >> smtp : Simple mail transfer protcol
+      >> tcp :  Transmission control protcol
+      >> udp : User datagram protcol 
+      >> ip :  internet protcol
+   
+   http ---> ssl(Secure socket layer) Certificate --> https
+
+   TLD :
+      >> .edu : education
+      >> .in : India
+      >> .com : Commercial
+      >> .uk : United kingdom 
